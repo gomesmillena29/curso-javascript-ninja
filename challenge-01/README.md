@@ -13,14 +13,14 @@
 
 // Atribua à variável `soma` todo o valor dela, somando 1, usando o operador de soma abreviado.
 const soma
-soma = 23 + 1;
+soma = ++;
 
 // Atribua à variável `soma` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
 const soma
-soma = 23 * 3;
+soma *= 3;
 
 // Qual é o valor da variável `soma` até aqui?
-soma = 69;
+soma = 72;
 
 // Declare uma variável chamada `souninja`, atribuindo à ela o valor booleano que representa `verdadeiro`.
 const = souninja = true;
